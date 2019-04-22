@@ -1,36 +1,31 @@
 - name: GitHub
-  url: http://github.com/
+  url: http://github.com/zoeseph
   class: icon-github
-  title: ""
+  title: "Github"
 
 - name: YouTube
-  url: http://www.youtube.com/
+  url: https://www.youtube.com/channel/UC2EMfMZUrztlA4vSnyMX9OA/
   class: icon-youtube
-  title: ""
+  title: "My series on my Autism, craft work, and videos for my original music"
 
 - name: Twitter
-  url: http://twitter.com/
+  url: https://twitter.com/ZoBloggs_
   class: icon-twitter
-  title: ""
+  title: "be my first twitter buddy!"
 
-# - name: Mixcloud
-#   url: http://www.mixcloud.com/
-#   class: icon-cloud
-#   title: ""
+- name: Instagram
+  url: https://www.instagram.com/zobloggs_/
+  class: icon-instagram
+  title: "catch me almost daily on ig"
+
+- name: Soundcloud
+  url: https://soundcloud.com/user-20621387
+  class: icon-soundcloud
+  title: "I produce and create my own music, listen here"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
 #   class: icon-facebook
-#   title: ""
-
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
 #   title: ""
 
 # - name: Pinterest
@@ -38,7 +33,7 @@
 #   class: icon-pinterest
 #   title: ""
 
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/
+#   class: icon-cloud
+#   title: ""
