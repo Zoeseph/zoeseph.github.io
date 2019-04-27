@@ -5,20 +5,26 @@
   url: "/"
   side: left
 
-- title: "My Work"
+- title: "Art"
   url: "#"
   side: left
   dropdown:
-  - title: "Art"
+  - title: "Gallery"
     url: "#"
-  - title: "Original Music"
+  - title: "Crafts"
     url: "#"
-  - title: "Tech"
+  - title: "DIY Projects"
     url: "#"
-  - title: "DIY and Crafts"
+  - title: "Photography & Projects"
     url: "#"
-  - title: "Autism"
-    url: "#"
+
+- title: Music
+  url: "/"
+side: left
+
+- title: Tech
+  url: "/"
+side: left
 
 - title: "Autism"
   url: "#"
