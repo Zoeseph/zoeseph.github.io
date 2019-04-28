@@ -1,7 +1,7 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Home
+- title: "Home"
   url: "/"
   side: left
 
@@ -18,11 +18,11 @@
   - title: "Photography & Projects"
     url: "#"
 
-- title: Music
+- title: "Music"
   url: "/"
 side: left
 
-- title: Tech
+- title: "Tech"
   url: "/"
 side: left
 
@@ -33,7 +33,7 @@ side: left
   - title: "Video Series"
     url: "#"
 # link to it's own page on autism, with widgets to youtube and blog, ig etc , tagged in artwork etc
-- title: Blog
+- title: "Blog"
   url: "/blog/"
   side: left
   dropdown:
