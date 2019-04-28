@@ -9,8 +9,8 @@ header:
   image_fullwidth: you-can-delete-me-header.png
 widget1:
   title: "Widget JUAN"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  url: 'http://zobloggs.com'
+  image: 'http://zobloggs.com'
   text: ''
 widget2:
   title: "Widget 2"
