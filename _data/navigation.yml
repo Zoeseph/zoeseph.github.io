@@ -26,7 +26,7 @@ side: left
   url: "/"
 side: left
 
-- title: "Autism"
+- title: "Autisma"
   url: "#"
   side: left
   dropdown:
@@ -34,6 +34,23 @@ side: left
     url: "#"
 # link to it's own page on autism, with widgets to youtube and blog, ig etc , tagged in artwork etc
 - title: "Blog"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+#
+#   Navigation to the right › side: right
+#
+- title: "Autism"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Video Series"
+    url: "#"
+# link to it's own page on autism, with widgets to youtube and blog, ig etc , tagged in artwork etc
+- title: Blog
   url: "/blog/"
   side: left
   dropdown:
