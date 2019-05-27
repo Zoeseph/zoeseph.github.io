@@ -29,7 +29,7 @@ widget2:
 widget3:
   title: "My Music"
   url: 'http://zoeseph.github.io/music'
-  image: zb-mymusic-crop.png
+  image: /zb-mymusic-crop.png
   text: 'A very personal hobby of mine that I&#39;ve practised on and off for well over a decade is Music Production. Attempting everything from song writing, composing, vocals and instruments; I&#39;ve only recently starting releasing my work publicly, under my other pseudonym <em>Zoeseph</em>.'
 #
 # Use the call for action to show a button on the frontpage
