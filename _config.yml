@@ -17,7 +17,7 @@ slogan: "collective home of my blog, artwork, music, tech projects, craftwork, d
 description: "Ex Data Analyst turning Artist, & recently diagnosed Autistic; »Zo Bloggs« is a record of Me; my art, music, crafts, video series', autism & blogging."
 
 
-# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+# The credits show up in the includes/_footer.html 
 credits: "See what else I'm up to on my other platforms:"
 
 # Main author of the website
@@ -86,7 +86,7 @@ language: 'en'
 
 
 # Used › default.html front-matter and compress.html
-# Options › http://jch.penibelst.de
+# Options › http://url.url
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -179,9 +179,9 @@ msapplication_tilecolor:                '#fabb00'
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
-#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://url.url/fb_optimize
 
-# og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+# og_image:                           'http://someurl.urlurl/zo/z.png'
 # og_locale:                          'en_EN'
 # og_type:                            'website'
 # og_title:                         ""
@@ -201,7 +201,7 @@ msapplication_tilecolor:                '#fabb00'
 
 socialmedia:
     twitter: zobloggs_
-#    facebook: phlow.media
+#    facebook: zo
 
 
 #        ____  _
