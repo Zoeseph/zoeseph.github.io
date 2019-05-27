@@ -1,7 +1,12 @@
-- name: GitHub
-  url: http://github.com/zoeseph
-  class: icon-github
-  title: "Github"
+# name: GitHub
+#  url: http://github.com/zoeseph
+#  class: icon-github
+#  title: "Github"
+
+- name: Instagram
+  url: https://www.instagram.com/zobloggs_/
+  class: icon-instagram
+  title: "catch me almost daily on ig"
 
 - name: YouTube
   url: https://www.youtube.com/channel/UC2EMfMZUrztlA4vSnyMX9OA/
@@ -11,29 +16,9 @@
 - name: Twitter
   url: https://twitter.com/ZoBloggs_
   class: icon-twitter
-  title: "be my first twitter buddy!"
-
-- name: Instagram
-  url: https://www.instagram.com/zobloggs_/
-  class: icon-instagram
-  title: "catch me almost daily on ig"
+  title: "be my first twitter buddy"
 
 - name: Soundcloud
   url: https://soundcloud.com/user-20621387
   class: icon-soundcloud
   title: "I produce and create my own music, listen here"
-
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
-# - name: Mixcloud
-#   url: http://www.mixcloud.com/
-#   class: icon-cloud
-#   title: ""
