@@ -10,6 +10,7 @@ categories:
   - dummy
 tags:
   - dummy
+permalink: /dummy
 #
 # Styling
 #
