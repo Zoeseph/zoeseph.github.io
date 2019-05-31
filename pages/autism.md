@@ -1,27 +1,14 @@
 ---
 layout: page
-title: "Autismainm"
-subheadline: "Autismainm"
-teaser: "So.. main ait?"
-categories:
-    - design
-    - dummy
-tags:
-    - dummy
-    - background color
-    - header
-    
-permalink: /autism/
-
+show_meta: false
+title: "Autism Main Page"
+subheadline: "Autism Subheadline"
 header:
     title: Autism
     background-color: "#EFC94C;"
-
-
----
+permalink: /autism/
 
 ---
-<!--more-->
 
 ## Resourceful links n shiz
 
@@ -30,15 +17,16 @@ header:
 * this too, is a link
 * link 4
 
-~~~
-ASD info:
-    title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-~~~
 
 ### All Related Blog Posts
 {: .t60 }
 
 {% include list-posts tag='header' %}
+
+---
+
+<ul>
+    {% for post in site.categories.dumy %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
