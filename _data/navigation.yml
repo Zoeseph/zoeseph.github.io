@@ -10,13 +10,13 @@
   side: left
   dropdown:
   - title: "Art"
-    url: "#"
+    url: "/art/"
   - title: "Original Music"
-    url: "#"
+    url: "/music/"
   - title: "Tech"
-    url: "#"
+    url: "/tech/"
   - title: "DIY and Crafts"
-    url: "#"
+    url: "/diy-crafts/"
   - title: "Autism"
     url: "#"
 
