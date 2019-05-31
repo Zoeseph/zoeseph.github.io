@@ -5,7 +5,7 @@ title: "Art Main Page"
 subheadline: "Art Subheadline"
 header:
     title: Art
-    background-color: "# #32FFCA;"
+    background-color: "#32FFCA;"
 permalink: /art/
 
 ---
