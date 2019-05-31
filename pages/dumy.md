@@ -8,7 +8,7 @@ header:
 permalink: "/dumy/"
 ---
 <ul>
-    {% for post in site.categories%}
+    {% for post in site.categories %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
