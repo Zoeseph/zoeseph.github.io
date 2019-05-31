@@ -18,7 +18,7 @@ permalink: /art/
 ---
 
 <ul>
-    {% for post in site.categories.dumy %}
+    {% for post in site.categories.art %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
