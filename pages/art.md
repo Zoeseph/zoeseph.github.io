@@ -6,7 +6,7 @@ subheadline: "Art Subheadline"
 header:
     title: Art
     background-color: "#32FFCA;"
-    image_fullwidth: zzb-header.png
+#   image_fullwidth: zb-header.png
 permalink: /art/
 
 ---
