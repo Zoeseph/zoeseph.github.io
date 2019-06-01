@@ -11,6 +11,7 @@ permalink: /art/
 
 ---
 
+
 ### All Related Blog Posts
 
 ---
