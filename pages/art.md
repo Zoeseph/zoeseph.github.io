@@ -13,6 +13,7 @@ permalink: /art/
 
 
 ### All Related Blog Posts
+{: .t60 }
 
 ---
 <ul>
