@@ -13,6 +13,8 @@ permalink: /art/
 
 ### All Related Blog Posts
 {: .t60 }
+---
+
 <ul>
     {% for post in site.categories.art %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
