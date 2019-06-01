@@ -14,8 +14,11 @@ permalink: /art/
 ### All Related Blog Posts
 {: .t60 }
 
-{% include list-posts tag='header' %}
 {% include list-posts tag='art' %}
+{% include list-posts tag='painting' %}
+{% include list-posts tag='drawing' %}
+{% include list-posts tag='canvas' %}
+
 
 
 ---
