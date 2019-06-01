@@ -15,7 +15,7 @@ permalink: /art/
 {: .t60 }
 
 {% include list-posts tag='header' %}
-{% include list-posts tag='ART' %}
+{% include list-posts tag='art' %}
 
 
 ---
