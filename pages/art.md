@@ -13,7 +13,8 @@ permalink: /art/
 
 
 ### All Related Blog Posts
-{: .t60 } 
+{: .t60 }
+
 ---
 <ul>
     {% for post in site.categories.art %}
