@@ -5,8 +5,8 @@ title: "Art Main Page"
 subheadline: "Art Subheadline"
 header:
     title: Art
-    image_fullwidth: zzb-header.png
     background-color: "#32FFCA;"
+    image_fullwidth: zzb-header.png
 permalink: /art/
 
 ---
