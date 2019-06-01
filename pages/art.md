@@ -8,8 +8,10 @@ header:
     background-color: "#32FFCA;"
 #   image_fullwidth: zb-header.png
 permalink: /art/
-
 ---
+
+
+
 
 
 ### All Related Blog Posts
