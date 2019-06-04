@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-subheadline: "&#8221;Zo Blogs? No, it's a take on Joe Bloggs *pour femme*ified, and I dropped the 'E' from Zoe. *sigh*&#8221;"
+subheadline: "Hello World. :)"
 teaser: "I have enjoyed X Y and Z for a long long time and wanted to share that with the world..."
 permalink: "/info/"
 header:
@@ -34,6 +34,7 @@ If it's not what you want - stop and change it. Don't just keep going and expect
 
 Lotsa Bob Ross Lipsum to feed the creative soul. <3
 
+I'm often asked if it's &#8221;Zo *Blogs*&#8221;? No, it's a take on Joe Bloggs *pour femme*ified, and I dropped the 'E' from Zoe. haha.. *sigh.*
 #### Happy reading!
 
 Yours sincerely, Zo Bloggs
