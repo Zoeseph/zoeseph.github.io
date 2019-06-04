@@ -28,9 +28,11 @@ They say everything looks better with odd numbers of things. But sometimes I put
 
 ## I got inspired by...
 
-You create the dream - then you bring it into your world. Let the paint work. Just let your mind wander and enjoy. This should make you happy. I was blessed with a very steady hand; and it comes in very handy when you're doing these little delicate things. Anyone can paint. 
+Bob Ross Lorem Ipsum You create the dream - then you bring it into your world. Let the paint work. Just let your mind wander and enjoy. This should make you happy. I was blessed with a very steady hand; and it comes in very handy when you're doing these little delicate things. Anyone can paint. 
 
-If it's not what you want - stop and change it. Don't just keep going and expect it will get better. You have freedom here. The only guide is your heart. Put your feelings into it, your heart, it's your world.
+If it's not what you want - stop and change it. Don't just keep going and expect it will get better. You have freedom here. The only guide is your heart. Put your feelings into it, your heart, it's your world. 
+
+Lotsa Bob Ross Lipsum to feed the creative soul. <3
 
 #### Happy reading!
 
