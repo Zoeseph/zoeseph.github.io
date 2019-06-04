@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-subheadline: "Zo Bloggs?"
+subheadline: ""Zo Blogs? No, it's a take on Joe Bloggs pour femme, and I dropped the 'E' from Zoe. *sigh*""
 teaser: "I have enjoyed X Y and Z for a long long time and wanted to share that with the world..."
 permalink: "/info/"
 header:
