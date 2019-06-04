@@ -13,7 +13,7 @@ header:
 They say everything looks better with odd numbers of things. But sometimes I put even numbers—just to upset the critics. It all happens automatically. Let's have a nice tree right here. This is truly an almighty mountain. We spend so much of our life looking - but never *seeing.* – Bob Ross.
 
 
-## Things
+## List o' Things
 
 * some list item
 * [Art][10]
