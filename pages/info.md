@@ -9,20 +9,20 @@ header:
 ---
 ...follow me on my journey.
 
-*Lorem Ipsum* 
+*Lorem Ipsum* - 
 They say everything looks better with odd numbers of things. But sometimes I put even numbers—just to upset the critics. It all happens automatically. Let's have a nice tree right here. This is truly an almighty mountain. We spend so much of our life looking - but never *seeing.* – Bob Ross.
 
 
 ## Things
 
-# * [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
 * some list item
-* Art
+* [Art][10]
+* [Everything Autism related][7]
 * Techy projects n stuff
 * Poetry and prose
 * game projects
-* Various post formats to let your content shine
-# * Play Video and Audio with [Mediaelement.js][12]
+* Music [here][6]
+* [pretend link here][5]
 
 
 
@@ -34,21 +34,21 @@ If it's not what you want - stop and change it. Don't just keep going and expect
 
 #### Happy reading!
 
-Yours sincerelly, Zo Bloggs
+Yours sincerely, Zo Bloggs
 
 
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
+ [1]: #
+ [2]: #
+ [3]: #
+ [4]: #
+ [5]: #
+ [6]: {{ site.url }}/music/
+ [7]: {{ site.url }}/autism/
+ [8]: {{ site.url }}/gallery/
+ [9]: {{ site.url }}/video/
+ [10]: {{ site.url }}/art/
+ [11]: #
+ [12]: #
  [13]: #
  [14]: #
  [15]: #
