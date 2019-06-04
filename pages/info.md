@@ -22,7 +22,7 @@ They say everything looks better with odd numbers of things. But sometimes I put
 * Poetry and prose
 * game projects
 * Music [here][6]
-* [pretend link here][5]
+* [pretendy link here][5]
 
 
 
