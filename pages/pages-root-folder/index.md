@@ -14,18 +14,19 @@ widget1:
   image: typewriter_960_720.jpg
   text: 'A place where I share my latest ventures, thoughts, rambles, schemes and antics. <br/>The trials and tribulations of dabbling late in life with very different career paths; moving from Tech to Art, without a degree or formal schooling beyond GCSE&#39;s, and generally just trying to make life work; keeping afloat with my mental health and my recent diagnosis of Autism at 25.'
 
-  
+    
 widget2:
-  title: "Art Portfolio"
-  url: 'http://zoeseph.github.io/art/'
-  image: painter-1937575_960_720.jpg
-  text: 'I love to try my hand at a bit of everything, and dabble in <em>a lot</em>: <br/>1. My Painting/Drawings<br/>2. Crafts and DIY projects<br/>3. Videography & Editting: <a href="http://youtube.com/">An Autism webseries I&#39;m working on</a>.<br/>4. Original Music Production & Compsition <br/>5. Tech Work & Projects'
-  
-widget3:
   title: "My Music"
   url: 'http://zoeseph.github.io/music'
   image: zb-mymusic-crop.png
   text: 'A very personal hobby of mine that I&#39;ve practised on and off for well over a decade is Music Production. Attempting everything from song writing, composing, vocals and instruments; I&#39;ve only recently starting releasing my work publicly, under my other pseudonym <em>Zoeseph</em>.'
+  
+widget3:
+  title: "Art Portfolio"
+  url: 'http://zoeseph.github.io/art/'
+  image: painter-1937575_960_720.jpg
+  text: 'I love to try my hand at a bit of everything, and dabble in <em>a lot</em>: <br/>1. My Painting/Drawings<br/>2. Crafts and DIY projects<br/>3. Videography & Editting: <a href="http://youtube.com/">An Autism webseries I&#39;m working on</a>.<br/>4. Original Music Production & Compsition <br/>5. Tech Work & Projects'
+
 
 
 widget4:
