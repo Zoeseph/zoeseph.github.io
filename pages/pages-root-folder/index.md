@@ -11,7 +11,7 @@ header:
 widget1:
   title: "Blog"
   url: 'http://zoeseph.github.io/blog/'
-  image: zb-mymusic-crop.png
+  image: typewriter_960_720.jpg
   text: 'A place where I share my latest ventures, thoughts, rambles, schemes and antics. <br/>The trials and tribulations of dabbling late in life with very different career paths; moving from Tech to Art, without a degree or formal schooling beyond GCSE&#39;s, and generally just trying to make life work; keeping afloat with my mental health and my recent diagnosis of Autism at 25.'
 
 
