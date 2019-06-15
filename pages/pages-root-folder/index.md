@@ -41,7 +41,7 @@ widget5:
   title: "Tech Projects"
   url: 'http://zoeseph.github.io/art/'
   text: 'I love to try my hand at a bit of everything, and dabble in <em>a lot</em>: <br/>1. My Painting/Drawings<br/>2. Crafts and DIY projects<br/>3. Videography & Editting: <a href="http://youtube.com/">An Autism webseries I&#39;m working on</a>.<br/>4. Original Music Production & Compsition <br/>5. Tech Work & Projects'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://zoeseph.github.io/images/zb-header-ytbutton.png" width="302" height="182" alt=""/></a>'
 
 
 widget6:
