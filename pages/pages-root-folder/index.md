@@ -12,7 +12,7 @@ widget1:
   title: "Blog"
   url: 'http://zoeseph.github.io/blog/'
   image: typewriter_960_720.jpg
-  text: 'I have always wanted to create and ripple social impact through my work, and always thought that a good platform to share my thoughts and ideas, would be starting off with a website. After many <em>many</em> years of saying I would but not doing anything (thanks Executive Dysfunctioning due to undiagnosed ASD) may I please happily & excitedly present to all of my lovely site visitors; Zo Blogg&#39;s Blog.'
+  text: 'I have always wanted to create and ripple social impact through my work, and always thought that a good platform to share my thoughts and ideas, would be starting off with a website. After many <em>many</em> years of saying I would but not doing anything (thanks Executive Dysfunctioning due to undiagnosed ASD) may I please happily & excitedly present to all of my lovely site <br/>visitors; Zo Blogg&#39;s Blog.'
 
     
 widget2:
