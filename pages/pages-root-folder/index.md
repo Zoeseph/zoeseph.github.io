@@ -12,7 +12,7 @@ widget1:
   title: "Blog"
   url: 'http://zoeseph.github.io/blog/'
   image: typewriter_960_720.jpg
-  text: 'A place where I share my latest ventures, thoughts, rambles, schemes and antics. <br/>The trials and tribulations of dabbling late in life with very different career paths; moving from Tech to Art, without a degree or formal schooling beyond GCSE&#39;s, and generally just trying to make life work; keeping afloat with my mental health and my recent diagnosis of Autism at 25.'
+  text: 'I have always wanted to create and ripple social impact through my work, and always thought that a good platform to share my thoughts and ideas, would be starting off with a website. After many <em>many</em> years of saying i&#39;d but not doing anything (thanks Executive Dysfunctioning due to undiagnosed ASD) may I please happily & excitedly present to Zo Blogg&#39;s Blog. <br/>A place where I share my latest ventures, thoughts, rambles, schemes and antics. <br/>The trials and tribulations of dabbling late in life with very different career paths; moving from Tech to Art, without a degree or formal schooling beyond GCSE&#39;s, and generally just trying to make life work; keeping afloat with my mental health and my recent diagnosis of Autism at 25.'
 
     
 widget2:
@@ -25,7 +25,7 @@ widget3:
   title: "Art Portfolio"
   url: 'http://zoeseph.github.io/art/'
   image: painter-1937575_960_720.jpg
-  text: 'I love to try my hand at a bit of everything, and dabble in <em>a lot</em>: <br/>1. My Painting/Drawings<br/>2. Crafts and DIY projects<br/>3. Videography & Editting: <a href="http://youtube.com/">An Autism webseries I&#39;m working on</a>.<br/>4. Original Music Production & Compsition <br/>5. Tech Work & Projects'
+  text: 'I forgot my love for painting and drawing until recently so I am finally spending time on creating again. Various art styles I enjoy consuming include; woodcut style illustration drawings, impressionism and post impressionism, clever use of negative space and contrasting vibrant colours and textures. I also enjoy various tattoo styles including traditional japanese, stippled fine art, and various takes neo-traditional portraits and animals.'
 
 
 
@@ -33,23 +33,25 @@ widget4:
   title: "DIY & Crafts"
   url: 'http://zoeseph.github.io/diy-crafts/'
   image: tools-498202_960_720.jpg
-  text: 'A place where I share my latest ventures, thoughts, rambles, schemes and antics. <br/>The trials and tribulations of dabbling late in life with very different career paths; moving from Tech to Art, without a degree or formal schooling beyond GCSE&#39;s, and generally just trying to make life work; keeping afloat with my mental health and my recent diagnosis of Autism at 25.'
+  text: 'As a child I dreamt of becoming an Inventor. Ever fascinated by non-electrical tools & appliances, and the engineering behind such staple items, like the hand crank sewing machines, which still stand the test of time over 100 years later, rigid heddle loom weaves, and the general intricacies of gear-train driven devices. To this day, my imagination is still wild that I&#39;m constantly creating or drawing contraptions that don&#39;t exist but should, and either aid daily life, or make it more practical in some way. I was overwhelmed with joy when coming across the term “maker”...'
 
 
   
 widget5:
   title: "Tech Projects"
   url: 'http://zoeseph.github.io/tech/'
-  text: 'As a child I dreamt of becoming an Inventor. My imagination is still wild that I&#39;m constantly creating or drawing contraptions that don&#39;t exist but should, and either aid daily life, or make it more practical in some way. I was overwhelmed with joy when coming across the term “maker”...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://zoeseph.github.io/images/zb-header-ytbutton.png" width="302" height="182" alt=""/></a>'
+  image: zb-header-ytbutton.png
+  text: 'As a Hardware & Software Technician/Engineer turned Software Engineer, who then specialised in Data Analysis, I then altogether left the IT industry to focus on self discovery and to better serve the creativity I was so desperately seeking and <em>needed</em> within my roles and work, but couldn’t find. <br>I’ve always wanted to create Social Impact through my work, so, as a start, have recently started to explore more artistic ventures through games programming.'
+
 
 
 widget6:
   title: "Autism"
   url: 'http://zoeseph.github.io/autism'
-  image: brainy.png
-  text: 'A very personal hobby of mine that I&#39;ve practised on and off for well over a decade is Music Production. Attempting everything from song writing, composing, vocals and instruments; I&#39;ve only recently starting releasing my work publicly, under my other pseudonym <em>Zoeseph</em>.'
- 
+  text: 'In the early summer of 2018, after years of battling mental health issues, and the ripple of problems they can create and affect; I was diagnosed with ASD (Autism) at 25 years old. <br/>This is a safe space I have created in order to share the journey of the last year, and how it has changed my perspective on many aspects of life, my attitude, all the up&#39;s and down&#39;s in between, but ultimately how I am trying to manage my life, and move forward with a positive mindset. '
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://zoeseph.github.io/images/brainy.png" width="302" height="182" alt=""/></a>'
+
+
 #
 # Use the call for action to show a button on the frontpage
 #
