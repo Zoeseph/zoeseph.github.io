@@ -31,7 +31,7 @@ widget3:
 
 widget4:
   title: "DIY & Crafts"
-  url: 'http://zoeseph.github.io/blog/'
+  url: 'http://zoeseph.github.io/diy-crafts/'
   image: tools-498202_960_720.jpg
   text: 'A place where I share my latest ventures, thoughts, rambles, schemes and antics. <br/>The trials and tribulations of dabbling late in life with very different career paths; moving from Tech to Art, without a degree or formal schooling beyond GCSE&#39;s, and generally just trying to make life work; keeping afloat with my mental health and my recent diagnosis of Autism at 25.'
 
@@ -39,14 +39,14 @@ widget4:
   
 widget5:
   title: "Tech Projects"
-  url: 'http://zoeseph.github.io/art/'
-  text: 'I love to try my hand at a bit of everything, and dabble in <em>a lot</em>: <br/>1. My Painting/Drawings<br/>2. Crafts and DIY projects<br/>3. Videography & Editting: <a href="http://youtube.com/">An Autism webseries I&#39;m working on</a>.<br/>4. Original Music Production & Compsition <br/>5. Tech Work & Projects'
+  url: 'http://zoeseph.github.io/tech/'
+  text: 'As a child I dreamt of becoming an Inventor. My imagination is still wild that I&#39;m constantly creating or drawing contraptions that don&#39;t exist but should, and either aid daily life, or make it more practical in some way. I was overwhelmed with joy when coming across the term “maker”...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://zoeseph.github.io/images/zb-header-ytbutton.png" width="302" height="182" alt=""/></a>'
 
 
 widget6:
   title: "Autism"
-  url: 'http://zoeseph.github.io/music'
+  url: 'http://zoeseph.github.io/autism'
   image: brainy.png
   text: 'A very personal hobby of mine that I&#39;ve practised on and off for well over a decade is Music Production. Attempting everything from song writing, composing, vocals and instruments; I&#39;ve only recently starting releasing my work publicly, under my other pseudonym <em>Zoeseph</em>.'
  
