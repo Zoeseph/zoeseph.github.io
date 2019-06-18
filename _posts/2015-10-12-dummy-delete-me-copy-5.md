@@ -18,10 +18,10 @@ tags:
 # Styling
 #
 image:
-  header: ""
-  thumb: "you-can-delete-me-thumb.png"
-  homepage: "you-can-delete-me-homepage.png"
-  caption: "Caption?"
+  header: "image header i think"
+  thumb: "brainy.png"
+  homepage: "foglogoz.png"
+  caption: "This is a Caption"
   url: "http://phlow.de/"
 ---
 
