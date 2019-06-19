@@ -64,7 +64,7 @@ widget6:
 #
 callforaction:
   url: https://tinyletter.com/zobloggs
-  text: super casual mailing list for updates and announcements ›
+  text: for super secret updates and special early announcements ›
   style: alert
 permalink: /index.html
 #
