@@ -40,7 +40,7 @@ widget4:
 widget5:
   title: "Tech Projects"
   url: 'http://zoeseph.github.io/tech/'
-  image: zb-header-ytbutton.png
+  image: raspiandmic.jpg
   text: 'As a Hardware & Software Technician/Engineer turned Software Engineer, who then specialised in Data Analysis, I then altogether left the IT industry to focus on self discovery and to better serve the creativity I was so desperately seeking and <em>needed</em> within my roles and work, but couldn’t find. <br>I’ve always wanted to create Social Impact through my work, so, as a start, have recently started to explore more artistic ventures through games programming.'
 
 
