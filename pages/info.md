@@ -2,12 +2,13 @@
 layout: page
 title: "About Me"
 subheadline: " "
-teaser: "'Creative x Digital Practitioner' or 'Maker and Artist'. Whatever the title; I love and practice Music Production, Software Engineering, Games Development, and Art."
+teaser: "'Creative x Digital Practitioner' or 'Maker and Artist'. 
+Whatever the title; I love and practice Music Production, Software Engineering, Games Development, and Art."
 permalink: "/info/"
 header:
     image_fullwidth: "zb-header.png"
 ---
-...follow me on my journey.
+This is my journey as dabbler of everything in the name and aim of doing what I love, and social impact.
 
 *Lorem Ipsum* - 
 They say everything looks better with odd numbers of things. But sometimes I put even numbers—just to upset the critics. It all happens automatically. Let's have a nice tree right here. This is truly an almighty mountain. We spend so much of our life looking - but never *seeing.* – Bob Ross.
