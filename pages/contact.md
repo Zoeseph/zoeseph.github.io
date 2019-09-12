@@ -12,7 +12,7 @@ To get in contact, please fill out this short, quick [form][1] with your
 - email address
 - query
 
-thank you,
+Many thanks,
 
 Zoe
 
