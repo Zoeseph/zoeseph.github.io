@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-subheadline: "Hello World. :)"
+subheadline: " "
 teaser: "I have enjoyed X Y and Z for a long long time and wanted to share that with the world..."
 permalink: "/info/"
 header:
