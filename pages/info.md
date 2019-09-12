@@ -48,7 +48,8 @@ If it's not what you want - stop and change it. Don't just keep going and expect
 
 #### Happy reading!
 
-Yours sincerely, Zo Bloggs
+Yours sincerely, 
+Zo Bloggs
 
 
  [1]: {{ site.url }}/blog/
