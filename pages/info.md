@@ -2,37 +2,43 @@
 layout: page
 title: "About Me"
 subheadline: " "
-teaser: "'Creative x Digital Practitioner' or 'Maker and Artist'."
+teaser: "'Creative x Digital Practitioner' / 'Maker and Artist'."
 permalink: "/info/"
 header:
     image_fullwidth: "zb-header.png"
 ---
-Whatever the title; I love and practice Music Production, Software Engineering, Games Development, and Art. <br/>This is my journey as dabbler of everything in the name and aim of doing what I love and social impact.
-
-*Lorem Ipsum* - 
-They say everything looks better with odd numbers of things. But sometimes I put even numbers—just to upset the critics. It all happens automatically. Let's have a nice tree right here. This is truly an almighty mountain. We spend so much of our life looking - but never *seeing.* – Bob Ross.
+Whatever the title; I *love* and practice Music Production, Software Engineering, Games Development, and Art. <br/>This is my journey as dabbler of everything in the name and aim of doing what I love and social impact, and life along the way.
 
 
-## List o' Things
+## List o' Things you'll find 
 
 * some list item
 * [Art][10]
 * [Everything Autism related][7]
 * Techy projects n stuff
 * Poetry and prose
-* game projects
-* Music [here][6]
+* Games dev projects
+* Music I write/perform/produce [here][6]
 * [pretendy link here][5]
 
 
 
 ## I got inspired by...
 
-Bob Ross Lorem Ipsum You create the dream - then you bring it into your world. Let the paint work. Just let your mind wander and enjoy. This should make you happy. I was blessed with a very steady hand; and it comes in very handy when you're doing these little delicate things. Anyone can paint. 
+stuff.
+
+
+## Bonus wholesome Bob Ross Quotes to feed the soul
+
+You create the dream - then you bring it into your world. Let the paint work. Just let your mind wander and enjoy. This should make you happy. I was blessed with a very steady hand; and it comes in very handy when you're doing these little delicate things. Anyone can paint. 
 
 If it's not what you want - stop and change it. Don't just keep going and expect it will get better. You have freedom here. The only guide is your heart. Put your feelings into it, your heart, it's your world. 
 
-Lotsa Bob Ross Lipsum to feed the creative soul. <3
+"They say everything looks better with odd numbers of things. But sometimes I put even numbers—just to upset the critics. It all happens automatically. Let's have a nice tree right here. This is truly an almighty mountain. We spend so much of our life looking - but never *seeing.* "
+
+– Bob Ross.
+
+<3
 
 I'm often asked if it's &#8221;Zo *Blogs*&#8221;? No, it's a take on Joe Bloggs *pour femme*ified, and I dropped the 'E' from Zoe. haha.. 
 **sigh.**
