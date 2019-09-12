@@ -48,7 +48,7 @@ If it's not what you want - stop and change it. Don't just keep going and expect
 
 #### Happy reading!
 
-Yours sincerely, 
+Yours sincerely, <br/>
 Zo Bloggs
 
 
