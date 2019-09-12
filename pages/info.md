@@ -2,7 +2,7 @@
 layout: page
 title: "About Me"
 subheadline: " "
-teaser: "I have enjoyed X Y and Z for a long long time and wanted to share that with the world..."
+teaser: "'Creative x Digital Practitioner' or 'Maker and Artist'. Whatever the title; I love and practice Music Production, Software Engineering, Games Development, and Art."
 permalink: "/info/"
 header:
     image_fullwidth: "zb-header.png"
