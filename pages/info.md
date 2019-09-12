@@ -7,25 +7,30 @@ permalink: "/info/"
 header:
     image_fullwidth: "zb-header.png"
 ---
-Whatever the title; I *love* and practice Music Production, Software Engineering, Games Development, and Art. <br/>This is my journey as dabbler of everything in the name and aim of doing what I love and social impact, and life along the way.
+Whatever the title; I *love* and practice Music Production, Software Engineering, Games Development, and Art. <br/><br/>This is my journey as dabbler of everything in the name and aim of doing what I love and social impact, and life along the way.
 
 
-## List o' Things you'll find 
+## Some of the things you'll find on my site
 
-* some list item
-* [Art][10]
-* [Everything Autism related][7]
-* Techy projects n stuff
-* Poetry and prose
+* my [blog][1]
+* [Art][2]
+* [Tech projects][3]
+* geeky hacky-makey "Stuff"
+* Poetry and Prose
 * Games dev projects
+* [DIY and Crafts][4]
+* [Everything Autism related][5]
 * Music I write/perform/produce [here][6]
-* [pretendy link here][5]
+* many other bits and bobs
 
 
 
-## I got inspired by...
+## I am inspired by...
 
-stuff.
+Me - and that's an okay thing to say! it's taken a long time to come to that conclusion, but I've come far and am fair in recognising the journey I've taken, my obstacles, fears and feats. I've come further than I expected, and am still aspiring to reach heights that I dream of. Inspiring yourself is something magical when you discover who you are, and the love, respect and admiration that you have for yourself. Be fair in your critique, but also be fair in recognising your talents, ambitions and aspirations!
+
+I've also been heavily inspired by some amazing women and people within the Arts industry ,and across other communities, whom have graced me with some pivotal and thought provoking topics and conversations. Listening to other people's passions, hobbies and practices, and the differing journey’s and depths to getting to where they are, I have such a pure and genuine appreciation for. Achieving your dreams and having aspirations that you can say are now present, existing and achieved;  those are the adventures that we all yearn to walk and run towards, but many cannot or will not take that first step. 
+
 
 
 ## Bonus wholesome Bob Ross Quotes to feed the soul
@@ -40,30 +45,19 @@ If it's not what you want - stop and change it. Don't just keep going and expect
 
 <3
 
-I'm often asked if it's &#8221;Zo *Blogs*&#8221;? No, it's a take on Joe Bloggs *pour femme*ified, and I dropped the 'E' from Zoe. haha.. 
-**sigh.**
+
 #### Happy reading!
 
 Yours sincerely, Zo Bloggs
 
 
- [1]: #
- [2]: #
- [3]: #
- [4]: #
- [5]: #
+ [1]: {{ site.url }}/blog/
+ [2]: {{ site.url }}/art/
+ [3]: {{ site.url }}/tech/
+ [4]: {{ site.url }}/diy-crafts/
+ [5]: {{ site.url }}/autism/
  [6]: {{ site.url }}/music/
- [7]: {{ site.url }}/autism/
- [8]: {{ site.url }}/gallery/
- [9]: {{ site.url }}/video/
- [10]: {{ site.url }}/art/
- [11]: #
- [12]: #
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+ [7]: #
+ [8]: #
+ [9]: #
+ [10]: #
