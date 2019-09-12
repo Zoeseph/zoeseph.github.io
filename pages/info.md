@@ -35,11 +35,11 @@ I've also been heavily inspired by some amazing women and people within the Arts
 
 ## Bonus wholesome Bob Ross Quotes to feed the soul
 
-"You create the dream - then you bring it into your world. Let the paint work. Just let your mind wander and enjoy. This should make you happy. I was blessed with a very steady hand; and it comes in very handy when you're doing these little delicate things. Anyone can paint." 
+"*You create the dream - then you bring it into your world. Let the paint work. Just let your mind wander and enjoy. This should make you happy. I was blessed with a very steady hand; and it comes in very handy when you're doing these little delicate things. Anyone can paint.*" 
 
-"If it's not what you want - stop and change it. Don't just keep going and expect it will get better. You have freedom here. The only guide is your heart. Put your feelings into it, your heart, it's your world." 
+"*If it's not what you want - stop and change it. Don't just keep going and expect it will get better. You have freedom here. The only guide is your heart. Put your feelings into it, your heart, it's your world.*" 
 
-"They say everything looks better with odd numbers of things. But sometimes I put even numbers—just to upset the critics. It all happens automatically. Let's have a nice tree right here. This is truly an almighty mountain. We spend so much of our life looking - but never *seeing.* "
+"*They say everything looks better with odd numbers of things. But sometimes I put even numbers—just to upset the critics. It all happens automatically. Let's have a nice tree right here. This is truly an almighty mountain. We spend so much of our life looking - but never seeing.* "
 
 – Bob Ross.
 
