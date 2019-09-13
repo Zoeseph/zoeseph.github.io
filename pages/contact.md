@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-To get in contact, please fill out this short, quick [form][1] with your
+To get in contact, please fill out this quick [form][1] with your
 - name
 - email address
 - query
@@ -15,7 +15,7 @@ To get in contact, please fill out this short, quick [form][1] with your
 If this is not what you're looking for, please see the page footer for my various Social Media links.
 
 Many thanks,
-Zo Bloggs
+<br/>Zo Bloggs
 
 
  [1]: https://docs.google.com/forms/d/e/1FAIpQLSdoKxzH7TUUc0XFCx-6A2aDmDJ-W28w4YuZpIT4DmhNJqdXmw/viewform?usp=sf_link
