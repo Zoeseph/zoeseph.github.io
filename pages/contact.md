@@ -12,9 +12,10 @@ To get in contact, please fill out this short, quick [form][1] with your
 - email address
 - query
 
-Many thanks,
+If this is not what you're looking for, please see the page footer for my various Social Media links.
 
-Zoe
+Many thanks,
+Zo Bloggs
 
 
  [1]: https://docs.google.com/forms/d/e/1FAIpQLSdoKxzH7TUUc0XFCx-6A2aDmDJ-W28w4YuZpIT4DmhNJqdXmw/viewform?usp=sf_link
