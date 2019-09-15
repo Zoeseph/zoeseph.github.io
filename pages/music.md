@@ -14,6 +14,7 @@ permalink: /music/
 {: .t60 }
 
 {% include list-posts tag='blog' %}
+{% include list-posts tag='autism' %}
 
 ---
 
