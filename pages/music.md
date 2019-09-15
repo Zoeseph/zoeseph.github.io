@@ -13,13 +13,7 @@ permalink: /music/
 ### All Related Blog Posts
 {: .t60 }
 
-{% include list-posts tag='blog' %}
-{% include list-posts tag='autism' %}
+{% include list-posts tag='music' %}
 
 ---
 
-<ul>
-    {% for post in site.categories.blog %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
