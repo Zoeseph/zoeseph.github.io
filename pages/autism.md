@@ -13,7 +13,8 @@ a little intro para here or two. info about my autism, late diagnosis at 25, per
 
 
 
-## useful links (self diagnosis, understanding and enlightenment)
+## links 
+(title - self diagnosis, understanding and enlightenment)<br/>
 example mini para, or couple lines to go here that introduce the links and subject (or to go just above).
 * link 1
 * link 2
@@ -21,7 +22,8 @@ example mini para, or couple lines to go here that introduce the links and subje
 * *Chef's Special* - Selected by Zo (lil para on what is is, why it helped me, why it'd recommend)
 
 
-## Resourceful links (understanding your autism - growth, acceptance and helping others to learn too)
+## Resourceful links 
+(title - understanding your autism - growth, acceptance and helping others to learn too)
 
 * link 1
 * link 2
