@@ -13,7 +13,7 @@ permalink: /music/
 ### All Related Blog Posts
 {: .t60 }
 
-{% include list-posts tag='header' %}
+{% include list-posts tag='blog' %}
 
 ---
 
