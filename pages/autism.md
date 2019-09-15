@@ -21,12 +21,10 @@ permalink: /autism/
 ### All Related Blog Posts
 {: .t60 }
 
-{% include list-posts tag='header' %}
+{% include list-posts tag='autism' %}
+{% include list-posts tag='mental health' %}
+
 
 ---
 
-<ul>
-    {% for post in site.categories.autism %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+
