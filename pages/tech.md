@@ -9,7 +9,7 @@ header:
 permalink: /tech/
 
 ---
-# What to expect to see
+### What to expect to see
 * PC self care - hardware replacements, what's what
 * PC care - technician tips and diagnosing problems early
 * equiptment hacks, tips, and reviews
