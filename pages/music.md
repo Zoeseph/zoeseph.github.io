@@ -10,6 +10,8 @@ permalink: /music/
 
 ---
 
+Music uploads coming soon!
+
 ### All Related Blog Posts
 {: .t60 }
 
