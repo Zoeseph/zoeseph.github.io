@@ -14,7 +14,7 @@ To get in contact, please fill out this quick [form][1] with your
 
 If this is not what you're looking for, please see the page footer for my various Social Media links.
 
-To always be first in the know and kept up to date, please join my [newsletter].
+To always be first in the know and kept up to date, please join my [newsletter][2].
 
 Many thanks,
 <br/>Zo Bloggs
