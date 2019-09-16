@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "DIY & Crafts Main Page"
-subheadline: "DIY & Music Subheadline"
+subheadline: "DIY Subheadline"
 header:
     title: DIY-Crafts Title
     background-color: "#BB218C;"
@@ -10,15 +10,17 @@ permalink: /diy-crafts/
 
 ---
 
-### All Related Blog Posts
-{: .t60 }
-
-{% include list-posts tag='header' %}
+everything from woodworking, loom weaving, tech hacks and mods, and many more.
 
 ---
 
-<ul>
-    {% for post in site.categories.diy-crafts %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+### All Related Blog Posts
+{: .t60 }
+
+{% include list-posts tag='diy-crafts' %}
+{% include list-posts tag='maker' %}
+{% include list-posts tag='hack' %}
+
+
+
+---
