@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "Pushing on..."
+subheadline: "May 15th 2019"
 title: "Workshops and Work Parties"
-teaser: "...and no sleep!"
+teaser: "...no sleep and pushing on!"
 categories:
   - blog
 tags:
