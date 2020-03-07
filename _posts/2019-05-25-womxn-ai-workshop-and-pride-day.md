@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: "May 25th - Pride Day 2019"
+subheadline: "May 25th 2019 - Pride Day"
 title: "Womxn AI Workshop and Live Coding"
 teaser: "Retraining an AI bot, and musical coding... not a bad way to spend Pride Day! "
 categories:
