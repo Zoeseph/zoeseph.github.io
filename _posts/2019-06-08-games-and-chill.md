@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "June 8th 2019"
 title: "Saturday Chill and Games"
-teaser: "I tried to force gametime onto my overactive brain today"
+teaser: "So I tried to force gametime onto my overactive brain today..."
 categories:
   - blog
 tags:
@@ -28,7 +28,6 @@ I played GRIS in the morning, which is a beautiful game; a sidescroller hand pai
 Later on in the afternoon/evening, I dusted off the PS3 to play Dead Rising 2 and recalled fond memories of playing with brother, several years ago. <br/>
 <br/>
 As much as I appreciate PC’s for their multifunctionality, I can understand that in terms of gaming, they’re not as accessible for replacing console gaming for everyone. <br/> 
-When it comes to PC gaming, you want to be able to understand your hardware, and graphics cards, which respectfully can be overwhelming to many people not working within IT or having studied Computer Science at some level… That, and nothing beats lounging on the couch comfortably with a controller VS sat at a desk! <br/>
-For those that have experienced 60fps for games though, It’s definitely hard to go back to most consoles maxing at 30fps, after the flexibility of pc gaming. <br/>
+When it comes to PC gaming, you want to be able to understand your hardware, and graphics cards, which respectfully can be overwhelming to many people not working within IT or having studied Computer Science at some level… That, and nothing beats lounging on the couch comfortably with a controller VS sat at a desk! For those that have experienced 60fps for games though, It’s definitely hard to go back to most consoles maxing at 30fps, after the flexibility of pc gaming. <br/>
 <br/> 
 Maybe one day I’ll upload some of my awkward *Let’s Plays* that I recorded maybe a year or two back now, and pick it up again haha.
