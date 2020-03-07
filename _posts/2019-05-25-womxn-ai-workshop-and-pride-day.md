@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "May 25th - Pride Day 2019"
 title: "Womxn AI Workshop and Live Coding"
-teaser: "Retraining an AI bot, and musical coding... not a bad way to spend Pride Day! "<br/>
+teaser: "Retraining an AI bot, and musical coding... not a bad way to spend Pride Day! "
 categories:
   - blog
 tags:
