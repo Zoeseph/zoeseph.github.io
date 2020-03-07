@@ -10,11 +10,13 @@ categories:
   - blog
 tags:
   - coding
-  - prideday
+  - ai
+  - diagflow
   - supercollider
   - algorave
   - womxn
   - inclusivity
+  - prideday
 #
 # Styling
 #
