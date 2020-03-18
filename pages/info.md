@@ -17,7 +17,7 @@ Whatever the title; I *love* and practice Music Production, Software Engineering
 * [Tech projects][3]
 * geeky hacky-makey "Stuff"
 * VR immersive experiences
-* Games dev projects[7]
+* [Games dev projects][7]
 * [DIY and Crafts][4]
 * [Everything Autism related][5]
 * Music I write/perform/produce [here][6]
