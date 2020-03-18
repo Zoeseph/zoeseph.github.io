@@ -3,7 +3,7 @@
 - name: Instagram
   url: https://www.instagram.com/zobloggs_/
   class: icon-instagram
-  title: "catch me almost daily on ig"
+  title: "instagram for regular updates"
 
 - name: YouTube
   url: https://www.youtube.com/channel/UC2EMfMZUrztlA4vSnyMX9OA/
@@ -13,9 +13,9 @@
 - name: Twitter
   url: https://twitter.com/ZoBloggs_
   class: icon-twitter
-  title: "be my first twitter buddy"
+  title: "twitter for random thoughts, music, tech, etc"
 
 - name: Soundcloud
-  url: https://soundcloud.com/user-20621387
+  url: https://soundcloud.com/zoesephofficial
   class: icon-soundcloud
-  title: "I produce and create my own music, listen here"
+  title: "I produce and create my own music"
