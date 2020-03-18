@@ -16,8 +16,8 @@ Whatever the title; I *love* and practice Music Production, Software Engineering
 * [Art][2]
 * [Tech projects][3]
 * geeky hacky-makey "Stuff"
-* Poetry and Prose
-* Games dev projects
+* VR immersive experiences
+* Games dev projects[7]
 * [DIY and Crafts][4]
 * [Everything Autism related][5]
 * Music I write/perform/produce [here][6]
@@ -58,7 +58,7 @@ Zo Bloggs
  [4]: {{ site.url }}/diy-crafts/
  [5]: {{ site.url }}/autism/
  [6]: {{ site.url }}/music/
- [7]: #
+ [7]: https://zobloggs.itch.io/
  [8]: #
  [9]: #
  [10]: #
