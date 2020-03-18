@@ -17,8 +17,10 @@
     url: "/tech/"
   - title: "DIY and Crafts"
     url: "/diy-crafts/"
-  - title: "Games & VR Development"
-    url: "#"
+  - title: "Games Development"
+    url: "/tech/"
+  - title: "VR Experiences"
+    url: "/tech/"
 
 - title: "Autism"
   url: "/autism/"
