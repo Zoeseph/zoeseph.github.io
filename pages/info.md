@@ -58,7 +58,7 @@ Zo Bloggs
  [4]: {{ site.url }}/diy-crafts/
  [5]: {{ site.url }}/autism/
  [6]: {{ site.url }}/music/
- [7]: https://zobloggs.itch.io/
+ [7]: https://zobloggs.itch.io
  [8]: #
  [9]: #
  [10]: #
