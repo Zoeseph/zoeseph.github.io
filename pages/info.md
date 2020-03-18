@@ -57,7 +57,7 @@ Zo Bloggs
  [3]: {{ site.url }}/tech/
  [4]: {{ site.url }}/diy-crafts/
  [5]: {{ site.url }}/autism/
- [6]: {{ site.url }}/music/
+ [6]: https://soundcloud.com/zoesephofficial
  [7]: https://zobloggs.itch.io
  [8]: #
  [9]: #
