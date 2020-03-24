@@ -13,7 +13,7 @@ permalink: /music/
 Embedded music videos and more coming soon!
 
 
-## My Music - [In Progress][1]
+## My Music - In Progress
 
 * [Voices in the Wind][2]
 * [Linkin Park - In the End (synth remix)][3]
