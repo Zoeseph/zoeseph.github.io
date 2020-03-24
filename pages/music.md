@@ -19,7 +19,7 @@ Embedded music videos and more coming soon!
 * [Linkin Park - In the End (synth remix)][3]
 * (more to be uploaded/announced soon)
 
-## Social Media[1]
+## Social Media
 
 * [SoundCloud][1]
 * Youtube
