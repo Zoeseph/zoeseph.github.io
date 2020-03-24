@@ -77,7 +77,7 @@ example mini para, or couple lines to go here that introduce the links and subje
 * link 3
 * link 4
 
-## Portfolio and Project work - Autism related
+## Related Portfolio & Project work
 
 * VR Project - Focusing on Autism & APD
 * link 2
