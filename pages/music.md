@@ -13,15 +13,15 @@ permalink: /music/
 Embedded music videos and more coming soon!
 
 
-## My Music - In Progress[1]
+## My Music - [In Progress][1]
 
-* Voices in the Wind[2]
-* Linkin Park - In the End (synth remix)[3]
+* [Voices in the Wind][2]
+* [Linkin Park - In the End (synth remix)][3]
 * (more to be uploaded/announced soon)
 
 ## Social Media[1]
 
-* SoundCloud[1]
+* [SoundCloud][1]
 * Youtube
 
 ### All Related Blog Posts
